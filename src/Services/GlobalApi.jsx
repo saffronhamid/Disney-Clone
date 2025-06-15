@@ -1,4 +1,5 @@
 import axios from "axios";
+import React from "react";
 
 const movieBaseUrl="https://api.themoviedb.org/3"
 const api_key='2ec0d66f5bdf1dd12eefa0723f1479cf'
